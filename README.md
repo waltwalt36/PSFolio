@@ -1,2 +1,2 @@
 # PSFolio
-bash``` A master piece at work```
+``` A master piece at work```
