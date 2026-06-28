@@ -1,5 +1,9 @@
+import Background from "./components/ambient/Background"
+
 function App() {
-  return <></>
+  return (
+    <Background/>
+  )
 }
 
 export default App
