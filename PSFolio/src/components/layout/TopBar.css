@@ -1,11 +1,22 @@
 .top-bar{
     display: flex;
-    justify-content: space-between;
-    padding: 20px;
+    padding: 20px 30px;
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     z-index: 1;
+    box-sizing: border-box
 }
-    
+
+.top-bar-left{
+    display: flex;
+    color: white;
+    gap: 70px;
+    font-size: 24px;
+}
+
+.time{
+    color: white;
+    margin-left: auto;
+}
